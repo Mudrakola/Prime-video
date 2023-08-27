@@ -1,0 +1,17 @@
+.video {
+  height: 100px;
+}
+.button-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 15px;
+  padding: 20px;
+}
+.but {
+  align-self: flex-end;
+  border: none;
+  background-color: transparent;
+  outline: none;
+  margin-bottom: 10px;
+}

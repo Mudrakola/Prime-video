@@ -1,0 +1,23 @@
+.bg-container {
+  background-color: #000000;
+  background-size: cover;
+  min-height: 100vh;
+  padding-bottom: 40px;
+}
+
+.banner-image {
+  width: 100%;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 23px;
+  color: #ffffff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.movies-container {
+  width: 90%;
+  margin: auto;
+}
